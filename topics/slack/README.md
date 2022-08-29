@@ -63,3 +63,20 @@ Times when it is appropriate to use direct messages are for things like
 sensitive or personal information. For example, a manager shouldn't give
 feedback to a lead engineer on how to run the team better in the team's public
 channel. This kind of coaching is better in a DM or a one-on-one.
+
+## Notification Management
+
+Let your team know you're available to respond to messages by setting your
+[status](#Status). If it's during a time you can't be disturbed, like a presentation,
+pause your notifications.
+
+Set your notification window around your working hours. If there is an emergency,
+the person pinging you can select the option to send you a notification anyway.
+
+For messages you want to be notified of that people tend not to tag you on,
+set up your Slack notification keywords. For example, you may want to add your
+name.
+
+For off-topic channels or channels that are no longer relevant (past projects
+you're not on), you may want to turn off @here notifications and just check the
+unread messages periodically.
