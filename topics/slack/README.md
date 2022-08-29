@@ -47,3 +47,19 @@ be sent.
 ![](slack-status-set.jpg)
 
 ![](slack-status-message.jpg)
+
+## Direct Messages (DMs)
+
+In most cases, AVOID direct messages. It may seem convenient or unobtrusive to
+the broader team to have project discussions in direct messages. However, what
+this actually does is reduces visibility and shared knowledge about what was
+discussed, and decisions that may have been made. If a conversation would be
+appropriate to have with every member of the team, it should most likely be in a
+public channel. Steering information to public channels helps keep the team on
+the same page, and gives people a chance to chime in on topics they may have
+knowledge on.
+
+Times when it is appropriate to use direct messages are for things like
+sensitive or personal information. For example, a manager shouldn't give
+feedback to a lead engineer on how to run the team better in the team's public
+channel. This kind of coaching is better in a DM or a one-on-one.
